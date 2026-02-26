@@ -1,10 +1,10 @@
 {
-  "name": "azure-mcp",
+  "name": "@iflow-mcp/kalivaraprasad-gonapa-azure-mcp",
   "version": "0.0.4",
-  "description": "",
+  "description": "Azure MCP server for managing Azure resources through Model Context Protocol",
   "author": "gkvp70@gmail.com",
   "bin": {
-    "azure-mcp": "dist/launcher.js"
+    "iflow-mcp_kalivaraprasad-gonapa-azure-mcp": "dist/launcher.js"
   },
   "files": [
     "dist"
